@@ -1,1 +1,2 @@
-# grin_one
+# GRIN One
+
