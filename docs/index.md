@@ -32,7 +32,6 @@ TBD 問い合わせ先
 ### スイッチとキーキャップを準備する
 
 ![レイアウト](https://github.com/policium/grin_one/blob/main/assets/img/grin-one-layout.jpg?raw=true)
-<img src="https://github.com/policium/grin_one/blob/main/assets/img/grin-one-layout.jpg?raw=true" width="1343">
 
 図を参考にキーレイアウトを決めてください。  
 キーキャップと必要な数のスイッチとスタビライザーを準備します。  
