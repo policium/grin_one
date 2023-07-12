@@ -98,13 +98,13 @@ TBD 問い合わせ先
 一度ＭＯＤキット無しで組付けて頂いた後にＭＯＤキットを取り付けて、違いを楽しむのもおすすめです。
 
 ### スイッチフォーム
-![スイッチフォーム](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_023820.jpg?raw=true)
+![スイッチフォーム](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_023820.jpg?raw=true)  
 スイッチプレートの裏側にスイッチフォームを貼り付けます。スイッチから発生する無駄な音を消音します。  
 フォームを青いシートから剥がす際に、接着面とスポンジがちぎれやすいため先のとがったピンセットで丁寧に剝がしてください。  
 スタビライザーが付く部分はそのまま貼り付けできないため、邪魔になる部分をハサミ等で切り取って貼り付けてください。
 
 ### ブチルゴムMOD
-![ブチルゴムMOD](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230712_083701.jpg?raw=true)
+![ブチルゴムMOD](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230712_083701.jpg?raw=true)  
 貼り付け位置の例  
 基板とケースにアルミブチルテープを貼り付けます。不要な共振を抑制して静音効果があります。  
 ハサミで切り取って自由に貼り付けていただいて構いませんが、赤い部分は基板と干渉するため貼り付けないでください。  
@@ -112,16 +112,16 @@ TBD 問い合わせ先
 手やハサミについたブチルゴムはアルコールで取り除いてください。  
 
 ### フレックスカットテープMOD
-![フレックスカットテープMOD](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_032804.jpg?raw=true)
+![フレックスカットテープMOD](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_032804.jpg?raw=true)  
 基板のスリット部分に貼り付けることで、打鍵音を強調すると共に、ケース内の反響音が外に漏れにくくなり打鍵音がクリアになります。
 
 ## ７．プレートねじ止め
-![プレートねじ止め](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_040058.jpg?raw=true)
+![プレートねじ止め](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_040058.jpg?raw=true)  
 基板とスイッチプレートをM2 3.5mmスペーサーとM2 3mmねじで取り付けます。
 
 ## ８．スイッチ、キーキャップ取り付け
-![スイッチ](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_041740.jpg?raw=true)
-![キーキャップ](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_050246.jpg?raw=true)
+![スイッチ](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_041740.jpg?raw=true)  
+![キーキャップ](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_050246.jpg?raw=true)  
 スイッチとキーキャップを取り付けます。本キーボードはホットスワップソケットなのでケースに組付け後も交換が可能ですがリーフスプリングマウントは外部から強い力をかけると壊れる恐れがあるため、基板を取り外した状態での交換をおすすめします。
 
 ## ９．ブッシュ取り付け
@@ -129,7 +129,7 @@ TBD 問い合わせ先
 出荷時はブッシュがケースに組付けられた状態です。一旦ねじを取り外してください。
 細かい部品があるため無くさないように気を付けてください。無くした場合は予備の部品をご利用ください。
 
-![ブッシュ](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_024042.jpg?raw=true)
+![ブッシュ](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_024042.jpg?raw=true)  
 真鍮ブッシュにプラワッシャとゴムワッシャを取り付けます。ここで取り付けるプラワッシャの組み合わせで打鍵時の感触が変化します。  
 青：ソフト、白：ミディアム、赤：ハードです。2枚以上のプラワッシャをここで入れることはお勧めしません。
 
@@ -137,7 +137,7 @@ TBD 問い合わせ先
 
 ボードをブッシュの上に配置します。
 
-![ブッシュ](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_050511.jpg?raw=true)
+![ブッシュ](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_050511.jpg?raw=true)  
 ゴムワッシャと残り色のプラワッシャを取り付けます。
 
 ## １０．ケースねじ止め
