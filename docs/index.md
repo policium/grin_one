@@ -118,6 +118,7 @@ TBD 問い合わせ先
 ## ７．プレートねじ止め
 ![プレートねじ止め](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_040058.jpg?raw=true)  
 基板とスイッチプレートをM2 3.5mmスペーサーとM2 3mmねじで取り付けます。
+![プレートねじ止め](https://github.com/policium/grin_one/blob/main/docs/assets/img/GRIN_ONE_2.png?raw=true)
 
 ## ８．スイッチ、キーキャップ取り付け
 ![スイッチ](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_041740.jpg?raw=true)  
