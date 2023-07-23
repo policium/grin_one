@@ -86,7 +86,8 @@ TBD 問い合わせ先
 ## ４．フォームの貼り付け
 
 ### ガスケットフォーム
-基板の目印がある位置にガスケットフォームを貼り付けます。
+基板の目印がある位置にガスケットフォームを貼り付けます。  
+![プレートねじ止め](https://github.com/policium/grin_one/blob/main/docs/assets/img/GRIN_ONE_1.png?raw=true)
 
 ## ５．スタビライザーの取り付け
 
