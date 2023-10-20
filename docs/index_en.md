@@ -16,17 +16,17 @@ If you have any questions during assembly, please send us a message using the em
 
 ## Work description.
 
-[1.Preparation](#1Preparation)  
-[2.Confirmation of the contents of the package](#2 Confirmation of the contents of the package)  
-[3.initial operation check](#3 initial operation check)  
-[4.Paste form](#4 Paste form)  
-[5.installation of stabiliser](#5 installation of stabiliser)  
-[6.Installation of MOD kit](#6Installation of MOD kit)  
-[7.plate screw fixing](#7 plate screw fixing)  
-[8.switch, keycap installation](#8 switch keycap installation)  
-[9.bush installation](#9 bush installation)  
-[10.case screw fixing](#10 case screw fixing)  
-[11.firmware](#11 firmware)  
+[1.Preparation](#1-preparation)  
+[2.Confirmation of the contents of the package](#2-confirmation-of-the-contents-of-the-package)  
+[3.initial operation check](#3-initial-operation-check)  
+[4.Paste form](#4-paste-form)  
+[5.installation of stabiliser](#5-installation-of-stabiliser)  
+[6.Installation of MOD kit](#6-installation-of-mod-kit)  
+[7.plate screw fixing](#7-plate-screw-fixing)  
+[8.switch, keycap installation](#8-switch-keycap-installation)  
+[9.bush installation](#9-bush-installation)  
+[10.case screw fixing](#10-case-screw-fixing)  
+[11.firmware](#11-firmware)  
 
 ## 1. Preliminary preparations
 
