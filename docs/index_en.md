@@ -18,7 +18,7 @@ If you have any questions during assembly, please send us a message using the em
 
 [1.Preliminary preparations](#1-preliminary-preparations)  
 [2.Check that the following items are included](#2-check-that-the-following-items-are-included)  
-[3.initial operation check](#3-initial-operation-check)  
+[3.Initial operation check](#3-initial-operation-check)  
 [4.Paste form](#4-paste-form)  
 [5.installation of stabiliser](#5-installation-of-stabiliser)  
 [6.Installation of MOD kit](#6-installation-of-mod-kit)  
