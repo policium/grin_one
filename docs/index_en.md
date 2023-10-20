@@ -23,7 +23,7 @@ If you have any questions during assembly, please send us a message using the em
 [5.Attaching the stabilisers](#5-attaching-the-stabilisers)  
 [6.Installation of the MOD kit](#6installation-of-the-mod-kit)  
 [7.Plate screw fixing](#7-plate-screw-fixing)  
-[8.Switch, keycap installation](#8-switch-keycap-installation)  
+[8.Switch and key cap installation](#8-switch-and-key-cap-installation)  
 [9.Bush installation](#9-bush-installation)  
 [10.Case screw fixing](#10-case-screw-fixing)  
 [11.Firmware](#11-firmware)  
