@@ -3,4 +3,4 @@ logo: /assets/img/g942.png
 description: Ultimate 65% GRIN layout board.
 show_downloads: false
 google_analytics:
-remote_theme: abhinavs/moonwalk
+remote_theme: chrisbobbe/jekyll-theme-prologue
