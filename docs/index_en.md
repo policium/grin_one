@@ -17,7 +17,7 @@ If you have any questions during assembly, please send us a message using the em
 ## Work description.
 
 [1.Preliminary preparations](#1-preliminary-preparations)  
-[2.Confirmation of the contents of the package](#2-confirmation-of-the-contents-of-the-package)  
+[2.Check that the following items are included](#2-check-that-the-following-items-are-included)  
 [3.initial operation check](#3-initial-operation-check)  
 [4.Paste form](#4-paste-form)  
 [5.installation of stabiliser](#5-installation-of-stabiliser)  
