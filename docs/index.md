@@ -168,4 +168,5 @@ M2 3mmねじでアッパーケースとバンパーをねじ止めします。
 VIAのJSONファイルは[こちら](https://raw.githubusercontent.com/policium/grin_one/main/firmware/qmk/grin_one.json)です。  
 uf2ファイルが必要な場合は、[こちら](https://github.com/policium/grin_one/tree/main/firmware/qmk)からダウンロードしてください。
 
-QMKのソースコードは[こちら](https://github.com/policium/qmk_firmware/tree/grin_one)です。
+QMKのソースコードは[こちら](https://github.com/policium/qmk_firmware/tree/grin_one)です。  
+Vialのソースコードは[こちら](https://github.com/policium/vial-qmk/tree/grin_one)です。  
