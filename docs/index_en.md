@@ -16,7 +16,7 @@ If you have any questions during assembly, please send us a message using the em
 
 ## Work description.
 
-[1.Preparation](#1-preliminary-preparations)  
+[1.Preliminary preparations](#1-preliminary-preparations)  
 [2.Confirmation of the contents of the package](#2-confirmation-of-the-contents-of-the-package)  
 [3.initial operation check](#3-initial-operation-check)  
 [4.Paste form](#4-paste-form)  
