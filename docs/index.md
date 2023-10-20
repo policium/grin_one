@@ -1,5 +1,7 @@
 # 組み立て手順
 
+Click [hear](index_en.md) for the English version.
+
 ## はじめに
 
 この度はGRIN Oneのご購入ありがとうございます。以下の手順にしたがって組み立ててください。
