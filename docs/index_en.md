@@ -45,7 +45,7 @@ Prepare keycaps and the required number of switches and stabilisers, lubricate t
 * Scissors
 * Paper rag or tissue etc.
 
-## 2. Check that the following items are included.
+## 2. Check that the following items are included
 
 Please check that the following items are included. If any of these items are missing, please send us a message via the email icon at the top of the shop website.  
 Bag 1.
