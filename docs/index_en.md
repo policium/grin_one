@@ -21,7 +21,7 @@ If you have any questions during assembly, please send us a message using the em
 [3.Initial operation check](#3-initial-operation-check)  
 [4.Paste form](#4-paste-form)  
 [5.Attaching the stabilisers](#5-attaching-the-stabilisers)  
-[6.Installation of MOD kit](#6-installation-of-mod-kit)  
+[6.Installation of the MOD kit](#6installation-of-the-mod-kit)  
 [7.plate screw fixing](#7-plate-screw-fixing)  
 [8.switch, keycap installation](#8-switch-keycap-installation)  
 [9.bush installation](#9-bush-installation)  
