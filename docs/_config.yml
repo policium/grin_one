@@ -4,3 +4,4 @@ description: Ultimate 65% GRIN layout board.
 show_downloads: false
 google_analytics:
 remote_theme: CloudCannon/edition-jekyll-template
+feed_meta:
