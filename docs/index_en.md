@@ -16,17 +16,17 @@ If you have any questions during assembly, please send us a message using the em
 
 ## Work description.
 
-[1.Preliminary preparations](#1-preliminary-preparations)  
-[2.Check that the following items are included](#2-check-that-the-following-items-are-included)  
-[3.Initial operation check](#3-initial-operation-check)  
-[4.Paste form](#4-paste-form)  
-[5.Attaching the stabilisers](#5-attaching-the-stabilisers)  
-[6.Installation of the MOD kit](#6installation-of-the-mod-kit)  
-[7.Plate screw fixing](#7-plate-screw-fixing)  
-[8.Switch and key cap installation](#8-switch-and-key-cap-installation)  
-[9.Bush installation](#9-bush-installation)  
-[10.Case screwing](#10case-screwing)  
-[11.Firmware](#11-firmware)  
+[1. Preliminary preparations](#1-preliminary-preparations)  
+[2. Check that the following items are included](#2-check-that-the-following-items-are-included)  
+[3. Initial operation check](#3-initial-operation-check)  
+[4. Paste form](#4-paste-form)  
+[5. Attaching the stabilisers](#5-attaching-the-stabilisers)  
+[6. Installation of the MOD kit](#6-installation-of-the-mod-kit)  
+[7. Plate screw fixing](#7-plate-screw-fixing)  
+[8. Switch and key cap installation](#8-switch-and-key-cap-installation)  
+[9. Bush installation](#9-bush-installation)  
+[10. Case screwing](#10-case-screwing)  
+[11. Firmware](#11-firmware)  
 
 ## 1. Preliminary preparations
 
@@ -96,7 +96,7 @@ Paste the gasket form in the position marked on the board.
 
 Attach the required stabilisers to the board. The board is 1.2 mm thick, so either install the supplied shims or use stabilisers for 1.2 mm thickness.
 
-## 6.Installation of the MOD kit
+## 6. Installation of the MOD kit
 
 If you have purchased a mod kit, install it at this time.
 It is also recommended to install the MOD kit after assembling without the MOD kit and enjoy the difference.
@@ -146,7 +146,7 @@ Place the PCB on top of the bushing.
 Place the rubber washers and the remaining coloured plastic washers on top of the PCB.
 *One plastic washer of each of the three colours will be stuck in each bush.
 
-## 10.Case screwing.
+## 10. Case screwing
 
 Position the bumper, then the upper case, taking care not to dislodge the plastic washer from the bush.
 
@@ -156,14 +156,14 @@ Due to the fact that the case is manufactured using a 3D printer, there may be s
 
 Screw the upper case and bumper together with M2 3 mm screws.
 
-#### Notes.
+#### Notes
 The rubber washers are likely to stick to the circuit board, so if you remove the circuit board carelessly, the washers may fly off and cause loss.
 Carefully remove the board while peeling off the stuck rubber washers. If you lose it, use a spare part.
 
 Attach the magnets to the upper case in six places. Attach a small piece of double-sided tape to the upper side of the magnets and then attach the top plate on top.  
 If the gap between the upper case and the top plate is large, the upper case is distorted and the screw fixing positions should be fine-tuned.  
 
-## 11.Firmware
+## 11. Firmware
 
 The QMK/VIA-compatible firmware is included in the initial state.  
 The VIA JSON file is [here](https://raw.githubusercontent.com/policium/grin_one/main/firmware/qmk/grin_one.json).  
