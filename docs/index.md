@@ -101,37 +101,37 @@ SW15、SW33、SW48、SW51、SW70はスタビライザーが必要です。また
 一度ＭＯＤキット無しで組付けて頂いた後にＭＯＤキットを取り付けて、違いを楽しむのもおすすめです。
 
 ### スイッチフォーム
-![スイッチフォーム](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_023820.jpg?raw=true)  
 スイッチプレートの裏側にスイッチフォームを貼り付けます。スイッチから発生する無駄な音を消音します。  
 フォームを青いシートから剥がす際に、接着面とスポンジがちぎれやすいため先のとがったピンセットで丁寧に剝がしてください。  
-スタビライザーが付く部分はそのまま貼り付けできないため、邪魔になる部分をハサミ等で切り取って貼り付けてください。
+スタビライザーが付く部分はそのまま貼り付けできないため、邪魔になる部分をハサミ等で切り取って貼り付けてください。  
+![スイッチフォーム](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_023820.jpg?raw=true)  
 
 ### ブチルゴムMOD
-![ブチルゴムMOD](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230712_083701.jpg?raw=true)  
-貼り付け位置の例  
 基板とケースにアルミブチルテープを貼り付けます。不要な共振を抑制して静音効果があります。  
 ハサミで切り取って自由に貼り付けていただいて構いませんが、赤い部分は基板と干渉するため貼り付けないでください。  
 ブチルゴムが周辺につくと取れなくなります。周囲を新聞等で覆う等、養生してから作業することをお勧めします。  
 手やハサミについたブチルゴムはアルコールで取り除いてください。  
+![ブチルゴムMOD](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230712_083701.jpg?raw=true)  
+貼り付け位置の例  
 
 ### フレックスカットテープMOD
+基板のスリット部分に貼り付けることで、打鍵音を強調すると共に、ケース内の反響音が外に漏れにくくなり打鍵音がクリアになります。  
 ![フレックスカットテープMOD](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_032804.jpg?raw=true)  
-基板のスリット部分に貼り付けることで、打鍵音を強調すると共に、ケース内の反響音が外に漏れにくくなり打鍵音がクリアになります。
 
 ## ７．プレートねじ止め
+基板とスイッチプレートをM2 3.5mmスペーサーとM2 3mmねじで取り付けます。  
+![プレートねじ止め](https://github.com/policium/grin_one/blob/main/docs/assets/img/GRIN_ONE_2.png?raw=true)  
 ![プレートねじ止め](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_040058.jpg?raw=true)  
-基板とスイッチプレートをM2 3.5mmスペーサーとM2 3mmねじで取り付けます。
-![プレートねじ止め](https://github.com/policium/grin_one/blob/main/docs/assets/img/GRIN_ONE_2.png?raw=true)
 
 ## ８．スイッチ、キーキャップ取り付け
+スイッチとキーキャップを取り付けます。本キーボードはホットスワップソケットなので組み立て後もスイッチの交換が可能ですが、リーフスプリングマウントは外部から強い力をかけると壊れる恐れがあるため、必ず基板を取り外した状態で交換してください。
 ![スイッチ](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_041740.jpg?raw=true)  
 ![キーキャップ](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_050246.jpg?raw=true)  
-スイッチとキーキャップを取り付けます。本キーボードはホットスワップソケットなので組み立て後もスイッチの交換が可能ですが、リーフスプリングマウントは外部から強い力をかけると壊れる恐れがあるため、必ず基板を取り外した状態で交換してください。
 
 ## ９．ブッシュ取り付け
 
 出荷時はブッシュがケースに組付けられた状態です。一旦ねじを取り外してください。
-細かい部品があるため無くさないように気を付けてください。無くした場合は予備の部品をご利用ください。
+細かい部品があるため無くさないように気を付けてください。無くした場合は予備の部品をご利用ください。  
 
 ![ブッシュ](https://github.com/policium/grin_one/blob/main/docs/assets/img/IMG_20230709_024042.jpg?raw=true)  
 真鍮ブッシュにプラワッシャとゴムワッシャを取り付けます。ここで取り付けるプラワッシャの組み合わせで打鍵時の感触が変化します。  
