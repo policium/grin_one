@@ -186,7 +186,7 @@ Vialのソースコードは[こちら](https://github.com/policium/vial-qmk/tre
 
 ## １２．ソレノイドキット
 
-![ソレノイドキット](https://github.com/policium/grin_one/blob/main/docs/assets/img/solenoid.png?raw=true)  
+![ソレノイドキット](https://github.com/policium/grin_one/blob/main/docs/assets/img/solenoid.jpg?raw=true)  
 
 ソレノイドキットの組み立てにははんだ付けが必要です。  
 はんだごて、はんだ、フラックスをご準備ください。  
