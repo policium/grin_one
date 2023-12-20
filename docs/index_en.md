@@ -56,11 +56,8 @@ Bag 2.
 * M2 3.5mm spacers ... 4 pcs.
 * M2 3mm screws ... 8 pcs.
 * M2 6 mm screws ... 2 pcs.
-* M2 screw 4 mm ... 2 pcs.
-* M2.6 14 mm screw ... 1 pc * Spare
 * Plastic washers (red, white and blue) ... 9 each
 * Rubber washers ... 18 pcs.
-* Metal bush ... 1 pc * Spare
 * Poron gasket foam
 * Rubber feet
 * Stabiliser shims (for 1.6mm) ...8 pcs.
